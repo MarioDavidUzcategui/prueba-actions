@@ -9,3 +9,5 @@ return a +b
     print('suma2', suma2)
   
  print(prueba)
+prueba(variableNueva)
+
