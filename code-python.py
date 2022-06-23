@@ -10,4 +10,5 @@ return a +b
   
  print(prueba)
 prueba(variableNueva)
+print(prueba2)
 
