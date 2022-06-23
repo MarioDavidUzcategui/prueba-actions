@@ -7,3 +7,5 @@ return a +b
   
  suma2 = funcion_suma(2, 2)
     print('suma2', suma2)
+  
+ print(prueba)
